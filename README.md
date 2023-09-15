@@ -2,7 +2,7 @@
 
 ## Introduction - level 2 heading 
 
-Place to sync CodingHome
+Place to sync Coding Home
 
 list of tasks to do 
 - setup SSH ✅
