@@ -5,8 +5,9 @@
 Place to sync CodingHome
 
 list of tasks to do 
-- setup SSH
-- git clone this repo locally
-- make changes and push it back
+- setup SSH ✅
+- git clone this repo locally ✅
+- make changes and push it back ✅
 
 ## work on paperspace setup - KAL
+i m coming for you muhahahahaha!!!!!!!!
