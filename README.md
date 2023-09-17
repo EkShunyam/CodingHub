@@ -10,4 +10,13 @@ list of tasks to do:
 - make changes and push it back ✅
 
 ## work on paperspace setup - KAL
-i m coming for you muhahahahaha!!!!!!!!
+i m coming for you muhahahahaha!!!!!!!!- here i m
+- signup
+- fai setup - symlinking
+- SSH linkup
+- kaggle linkup
+
+## Quarto Blog
+ best technical blogging website combo 
+ - download quarto
+ - watch vid
