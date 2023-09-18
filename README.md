@@ -10,10 +10,10 @@ list of tasks to do:
 - make changes and push it back ✅
 
 ## work on paperspace setup - KAL
-i m coming for you muhahahahaha!!!!!!!!- here i m
-- signup
-- fai setup - symlinking
-- SSH linkup
+i m coming for you muhahahahaha!!!!!!!!
+- signup ✅
+- fai setup - symlinking ✅
+- SSH linkup - here i m 🤓
 - kaggle linkup
 
 ## Quarto Blog
