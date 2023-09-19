@@ -13,10 +13,10 @@ list of tasks to do:
 i m coming for you muhahahahaha!!!!!!!!
 - signup ✅
 - fai setup - symlinking ✅
-- SSH linkup - here i m 🤓
+- SSH linkup - ✅
 - kaggle linkup
 
-## Quarto Blog
+## Quarto Blog here i m 🤓
  best technical blogging website combo 
  - download quarto
  - watch vid
