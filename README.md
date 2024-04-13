@@ -20,3 +20,7 @@ i m coming for you muhahahahaha!!!!!!!!
  best technical blogging website combo 
  - download quarto
  - watch vid
+
+## homelab init 💻
+follow below
+- open port on nat (portforwarding)
